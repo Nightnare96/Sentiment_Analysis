@@ -2,13 +2,13 @@
 
 A Natural Language Processing (NLP) project for analyzing Amazon customer reviews using **VADER**, **RoBERTa**, and **Hugging Face Transformers**.
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer reviews contain valuable information about customer satisfaction and product perception. This project performs sentiment analysis on Amazon reviews using both traditional lexicon-based NLP techniques and modern transformer-based models.
 
 The project compares the sentiment predictions from **VADER** and **RoBERTa** and explores cases where textual sentiment differs from the Amazon star rating.
 
-## 📊 Dataset
+##  Dataset
 
 The project uses the **Dataset:** [Amazon Fine Food Reviews – Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 
@@ -34,7 +34,7 @@ For computational efficiency, the analysis in this notebook is performed on the 
 | `Summary` | Review summary |
 | `Text` | Full review text |
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -49,7 +49,7 @@ For computational efficiency, the analysis in this notebook is performed on the 
 - tqdm
 - Google Colab
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 Amazon Reviews Dataset
